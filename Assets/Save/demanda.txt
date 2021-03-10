@@ -1,0 +1,2 @@
+Pol0	Pol1	Pol2	Pol3	Pol4	Pol5	Pol6	Pol7
+400	600	500	600	600	500	400	300

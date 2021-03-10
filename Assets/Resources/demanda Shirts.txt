@@ -1,0 +1,2 @@
+Pol0	Pol1	Pol2	Pol3	Pol4	Pol5	Pol6	Pol7
+796	655	536	742	720	337	317	338

@@ -1,0 +1,23 @@
+﻿#Piece1.obj
+#miércoles. 4 de diciembre de 2019
+#10:22:24 a. m.
+#-------
+
+g Piece1
+#Piece1
+#-------
+v 0 0 0
+v 3 4.886182E-06 0
+v 2.999998 1.000005 0
+v -1.628727E-06 1 0
+
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+
+
+usemtl Standard
+usemap Standard
+f 4/4/4 3/3/3 2/2/2
+f 2/2/2 1/1/1 4/4/4
